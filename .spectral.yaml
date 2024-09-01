@@ -1,0 +1,4 @@
+extends: [
+    "https://raw.githubusercontent.com/ryanashneil/demo-api-linter/main/openapi/v0.9/base.yaml",
+    # "https://docs.developer.tech.gov.sg/docs/interop-linter/openapi/v0.9/base.yaml",
+  ]
