@@ -15,6 +15,10 @@ To use the spectral API linter with an external configuration source, follow the
 3. Configure the linter to use the external configuration file provided in this repository.
 4. Run the linter against your API specifications to ensure they adhere to the defined rules.
 
+```bash
+npx spectral lint src/unique-tech-events.v1.yaml
+```
+
 ## External Configuration
 
 The external configuration file included in this repository contains the custom rules and settings for the spectral API linter. You can modify this configuration file to adjust the linter's behavior according to your project's needs.
